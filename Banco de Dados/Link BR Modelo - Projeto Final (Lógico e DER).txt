@@ -1,0 +1,13 @@
+
+Grupo 5 - Projeto BD - Clinica Veterinária
+
+
+
+Link Modelo Lógico:
+
+https://app.brmodeloweb.com/#!/publicview/67ec6b3b12b57563b382511a
+
+link DER:
+
+https://app.brmodeloweb.com/#!/publicview/67ec38f8f41e882cb1ce6af1
+
