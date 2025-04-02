@@ -1,1 +1,1 @@
-Esse projeto não pode ser usado para fins comerciais.
+Este banco de dados poderá ser usado em uma clínica de dentistas.
